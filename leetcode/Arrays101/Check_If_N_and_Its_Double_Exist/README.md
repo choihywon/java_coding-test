@@ -1,4 +1,4 @@
-#Check If N and Its Double Exist
+# Check If N and Its Double Exist
 
 Given an array `arr` of integers, check if there exist two indices `i` and `j` such that:
 
