@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="463e03c4-d732-4293-9550-c11c10e91b90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/b_11005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/b_11653.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/b_2581.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/b_2745.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/b_2903.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/bacjoon_1094.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1075.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1076.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1152.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1159.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon1225.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon2010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon2292.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_10989.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_11050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1181.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1193.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1292.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1312.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_15829.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1676.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1874.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1920.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_1924.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2231.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2525.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2563.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2588.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2609.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2720.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2738.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2775.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2869.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_2884.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_4153.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/backjoon_9506.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/programmers_1122.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/sil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준(~20240522)/testing_231030.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gmJlwNOeyjYPsYkqDcec2RqigD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SAMSUNG/Desktop/leetcode/Remove_Duplicates_from_Sorted_Array",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Remove_Duplicates_from_Sorted_Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="463e03c4-d732-4293-9550-c11c10e91b90" name="Changes" comment="" />
+      <created>1716296976319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716296976319</updated>
+      <workItem from="1716296977386" duration="4000" />
+      <workItem from="1716349861037" duration="35000" />
+      <workItem from="1716566214505" duration="1000" />
+      <workItem from="1716566224803" duration="16000" />
+      <workItem from="1716784004277" duration="574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
