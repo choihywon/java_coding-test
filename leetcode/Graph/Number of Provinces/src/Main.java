@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+=======
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 class Solution {
@@ -23,3 +30,4 @@ class Solution {
         }
     }
 }
+>>>>>>> 9e661cbb7df75b134e5154fe07c8e5eee889bc73
