@@ -1,15 +1,28 @@
+//class Solution {
+//    public int[] replaceElements(int[] arr) {
+//
+//        int index = arr[arr.length-1];
+//        for(int i=arr.length-1; i>=1; i--){
+//            if(arr[i] > arr[i-1]) {
+//                arr[i-1] = arr[i];
+//            }
+//
+//
+//
+//        }
+//        arr[arr.length-1] = -1;
+//        return arr;
+//    }
+//}
 class Solution {
     public int[] replaceElements(int[] arr) {
-        int index = arr[arr.length-1];
-        for(int i=arr.length-1; i>=1; i--){
-            if(arr[i] > arr[i-1]) {
-                arr[i-1] = arr[i];
-            }
-            
-
-
+        int index = arr[arr.length - 1];
+        for (int i = arr.length - 1; i >= 1; i--) {
+            if (arr[i] > arr[i - 1])
+                arr[i - 1] = arr[i];
         }
-        arr[arr.length-1] = -1;
+
+        arr[arr.length - 1] = -1;
         return arr;
     }
 }
